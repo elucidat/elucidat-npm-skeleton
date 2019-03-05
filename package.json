@@ -1,0 +1,24 @@
+{
+  "name": "elucidat/elucidat-npm-skeleton",
+  "version": "1.0.0",
+  "description": "Facilitate usage of OAS data and GraphQL schema for a Gateway API service",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elucidat/elucidat-npm-skeleton.git"
+  },
+  "contributors": [
+    "Andrew Collington <andrew.collington@eluicdat.com>",
+    "James Guest <james.guest@eluicdat.com>",
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elucidat/elucidat-npm-skeleton/issues"
+  },
+  "homepage": "https://github.com/elucidat/elucidat-npm-skeleton#readme",
+  "dependencies": {
+    "graphql": "^14.1.1",
+    "graphql-tools": "^4.0.4",
+    "oasgraph": "^0.14.1"
+  }
+}
